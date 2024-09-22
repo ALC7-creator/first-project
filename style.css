@@ -1,4 +1,12 @@
 .body{
     font-size: medium;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+   
+}
+.main-content{
+    font-size: small;
+    margin: 0%;
+    background-color: antiquewhite;
+    
 }
